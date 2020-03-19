@@ -1,6 +1,7 @@
 # Music_player-MELODY-
 
-most havet this liberary or  mudules install
-pygame
-mutagen
+Most have all this liberary/modules install
+
+pygame,
+mutagen,
 ttkthemes
